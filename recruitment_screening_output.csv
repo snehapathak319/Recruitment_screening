@@ -1,0 +1,21 @@
+candidate_id,name,skills,experience_years,education,certifications,similarity_score,experience_score,education_score,certification_score,final_score,recommendation
+20,Meera,python machine learning sql communication dashboards,4,MCA,3,0.7552303609663475,0.6666666666666666,0.8,0.75,0.7392818471498404,Strong Match
+5,Vivaan,python sql deep learning nlp bert,6,M.Tech,4,0.37377389485318235,1.0,0.9,1.0,0.6718869474265912,Strong Match
+17,Rudra,nlp bert transformers python machine learning,5,M.Tech,4,0.41846902252141227,0.8333333333333334,0.9,1.0,0.6525678445940395,Strong Match
+14,Kiara,python sql data analysis recruitment hr analytics,5,MBA HR,4,0.40651352125134577,0.8333333333333334,0.8,1.0,0.6315900939590062,Moderate Match
+12,Aadhya,python r statistics machine learning,4,M.Stat,3,0.382898680107303,0.6666666666666666,0.9,0.75,0.5681160067203181,Moderate Match
+18,Sara,recruitment analytics excel communication hr operations,4,MBA HR,2,0.36445346087203345,0.6666666666666666,0.8,0.5,0.5188933971026835,Moderate Match
+1,Aarav,python sql machine learning excel,3,B.Tech,2,0.46198467018671496,0.5,0.7,0.5,0.5109923350933575,Moderate Match
+10,Siya,python sql ml nlp communication teamwork,3,MCA,3,0.3495750141812058,0.5,0.8,0.75,0.4947875070906029,Low Match
+13,Advik,project management agile scrum communication,6,MBA,2,0.061943120154900486,1.0,0.75,0.5,0.4434715600774502,Low Match
+2,Diya,excel communication recruitment onboarding,4,MBA HR,1,0.2468399205803057,0.6666666666666666,0.8,0.25,0.43508662695681954,Low Match
+4,Ishita,java sql spring communication teamwork,5,B.Tech,2,0.12884002148700135,0.8333333333333334,0.7,0.5,0.427753344076834,Low Match
+8,Myra,machine learning python data visualization tableau,2,M.Sc,3,0.2755162609555925,0.3333333333333333,0.8,0.75,0.4160914638111296,Low Match
+6,Anaya,recruitment sourcing interview screening communication,3,MBA HR,2,0.18862037171546303,0.5,0.8,0.5,0.3893101858577315,Low Match
+7,Reyansh,python sql power bi excel statistics,4,B.Tech,2,0.11931685638298317,0.6666666666666666,0.7,0.5,0.38132509485815824,Low Match
+16,Navya,python sql tableau power bi communication,3,BBA,2,0.20436657879165046,0.5,0.55,0.5,0.3596832893958252,Low Match
+9,Arjun,manual testing selenium jira communication,5,BCA,1,0.061943120154900486,0.8333333333333334,0.55,0.25,0.34680489341078363,Low Match
+3,Kabir,python pandas data analysis sql tableau,2,B.Sc,3,0.11358358015875539,0.3333333333333333,0.6,0.75,0.30512512341271103,Low Match
+19,Vihaan,python sql statistics data cleaning pandas,2,B.Sc,2,0.10959365844796358,0.3333333333333333,0.6,0.5,0.2781301625573151,Low Match
+11,Krish,excel sql reporting dashboard power bi,2,B.Com,2,0.052341976315112365,0.3333333333333333,0.5,0.5,0.2345043214908895,Low Match
+15,Atharv,c++ algorithms data structures problem solving,1,B.Tech,1,0.0,0.16666666666666666,0.7,0.25,0.17166666666666666,Low Match
